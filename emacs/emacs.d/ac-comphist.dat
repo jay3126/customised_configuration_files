@@ -1,0 +1,994 @@
+((("principal_outstanding_as_on_date" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("principal_outstanding_as_on_date1" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("loan_number_of_installments" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("loan_installment_frequency" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("expected_message" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("be_false" .
+   [1 0 0 0 0 0 0 0])
+  ("is_odd_number?" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("OddNumbers" .
+   [0 0 0 1 0 0 0 0 0 1])
+  ("odd_number" .
+   [1 0 0 2 0 0 0 0 0 0])
+  ("size" .
+   [2 0 0 0])
+  ("number" .
+   [15 0 0 0 0 0])
+  ("it" .
+   [4 0])
+  ("be_true" .
+   [4 0 0 0 0 0 0])
+  ("should" .
+   [2 0 0 0 0 0])
+  ("given_number" .
+   [2 0 0 0 0 3 0 0 0 0 0 0])
+  ("Prime" .
+   [3 0 0 0 0])
+  ("max" .
+   [1 0 0])
+  ("sqrt" .
+   [1 0 0 0])
+  ("Math" .
+   [1 0 0 0])
+  ("to_a" .
+   [1 0 0 0])
+  ("money_deposit_categories" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("money_deposit_category" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("money_deposit_categor" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("created" .
+   [1 0 0 0 0 0 0])
+  ("find-recursive" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("snippet" .
+   [1 0 0 0 0 0 0])
+  ("require" .
+   [3 0 0 0 0 0 0])
+  ("yaml" .
+   [1 0 0 0])
+  ("1500" .
+   [0 0 0 1])
+  ("meeting_frequency" .
+   [0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 1])
+  ("args" .
+   [1 0 0 0])
+  ("directory" .
+   [1 0 0 0 0 0 0 0 0])
+  ("all_funding_line_ids" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("PRECLOSED_LOAN_STATUS" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Disbursal" .
+   [0 0 0 0 0 0 0 0 1])
+  ("principal" .
+   [0 0 0 0 0 0 0 0 1])
+  ("headers" .
+   [0 0 2 2 0 0 1])
+  ("here" .
+   [2 0 1 0])
+  ("row" .
+   [4 0 0])
+  ("reference" .
+   [1 0 0 0 0 1 2 0 0])
+  ("designation" .
+   [1 0 0 0 0 1 0 0 0 0 0])
+  ("Location" .
+   [0 0 0 0 0 0 0 1])
+  ("money_amount" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("currency" .
+   [4 0 0 0 0 0 0 0])
+  ("new_funding_lines" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("funding_lines" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("NewFunder" .
+   [1 0 0 0 0 0 0 0 0])
+  ("funder" .
+   [5 0 0 0 0 0])
+  ("funder_id" .
+   [1 0 0 0 0 0 0 0 0])
+  ("upload" .
+   [1 0 0 0 0 0])
+  ("exists?" .
+   [0 0 0 1 0 0 0])
+  ("fn" .
+   [3 0])
+  ("location_levels" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("file_list_count" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("loan_disbursement_by_psl" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("total_pos_per_psl" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("branch_master_list" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("total_pos_per_branch" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("loan_disbursement_by_loan_product" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("lending_product_id" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("LendingProduct" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("psl_name" .
+   [2 0 0 0 0 0 0 0])
+  ("psl_master_list" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("psl_master" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("select" .
+   [1 0 0 0 0 0])
+  ("psl" .
+   [14 0 0])
+  ("classification" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("last" .
+   [1 0 0 0])
+  ("received_on" .
+   [0 0 0 0 0 0 0 0 2 0 0])
+  ("payments" .
+   [2 0 0 0 0 0 0 0])
+  ("LocationHoliday" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("principal_outstanding_as_on_date2" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("date2" .
+   [4 0 0 0 0])
+  ("Principal" .
+   [0 0 0 0 0 1 1 0 0])
+  ("installment_frequency" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Outstanding" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("is" .
+   [2 0])
+  ("loan_product" .
+   [5 0 0 0 2 0 0 1 1 0 0 1])
+  ("number_of_installments" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cycle_number" .
+   [0 0 0 1 1 0 0 0 0 0 0 0])
+  ("loan_cycle_number" .
+   [0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0])
+  ("Interest" .
+   [0 0 0 0 0 1 1 0])
+  ("loan_interest_rate" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("document_type" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("document_types" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("resource" .
+   [4 0 0 0 0 0 0 0])
+  ("ThirdParty" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("SOF" .
+   [0 0 1])
+  ("100" .
+   [2 0 0])
+  ("loan_preclosure_date" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("loan_tenure" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("preclosed" .
+   [0 0 0 0 0 0 0 0 1])
+  ("interest_rate" .
+   [2 0 0 0 0 1 0 1 0 0 0 0 0])
+  ("spouse_name" .
+   [2 0 0 0 2 0 0 0 0 0 0])
+  ("Center" .
+   [3 0 0 0 0 1])
+  ("Branch" .
+   [3 0 0 0 0 0])
+  ("preclosed_loans" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("loan_query_params" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("preclosed_on" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("date1" .
+   [5 0 0 0 0])
+  ("namespace" .
+   [1 0 0 0 0 0 0 1 0])
+  ("account_gl_code" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("account_name" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("account_type" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  ("gl_code" .
+   [9 0 0 0 0 0 0])
+  ("acc" .
+   [38 0 0])
+  ("Account" .
+   [3 0 0 0 0 0 0])
+  ("update_history" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("0%" .
+   [1 0])
+  ("LoanStatusReport" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("for_location_id" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is_outstanding?" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("unless" .
+   [3 0 0 0 0 0])
+  ("at_location_ids_ary" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bank_branch_id" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cheque_book" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("compact" .
+   [1 0 0 0 0 0 0])
+  ("accounted_at_origin" .
+   [0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("for_loan_ids_ary" .
+   [0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("manager" .
+   [1 0 0 0 0 0 0])
+  ("stock_register" .
+   [5 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("manager_staff_id" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("serial_no" .
+   [0 0 0 0 0 0 1 0 0])
+  ("false" .
+   [8 0 0 0 1])
+  ("end_serial" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("Integer" .
+   [5 0 0 0 0 0 0])
+  ("start_serial" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("center_disbursal_date" .
+   [2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("center_ids" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("c_center_id" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("branch_ids" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("c_branch_id" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("flatten" .
+   [1 0 0 0 2 0 0])
+  ("location_level" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("biz_locations" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("locations" .
+   [1 0 0 0 0 0 0 0 0])
+  ("has_meeting" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("LocationLevel" .
+   [0 0 0 0 0 0 0 0 1 0 1 0 0])
+  ("BizLocation" .
+   [1 0 0 4 0 0 0 0 0 0 0])
+  ("guarantor_gender" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("client_occupation" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("client_date_of_birth" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("client_gender" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("date_of_birth" .
+   [1 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("capitalize" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("gender" .
+   [7 0 0 0 0 0])
+  ("pre_closure_amount" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("written_off_amount" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("result" .
+   [3 0 0 0 0 0])
+  ("to_i" .
+   [14 0 0 1])
+  ("INR" .
+   [3 0 0])
+  ("interest" .
+   [1 0 0 0 0 0 0 0])
+  ("sum" .
+   [2 0 0])
+  ("write" .
+   [1 0 0 0 0])
+  ("status_change_loan_ids" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("lending_id" .
+   [6 0 0 0 0 0 0 0 0 0])
+  ("aggregate" .
+   [5 0 0 0 0 0 0 0 0])
+  ("date_to_query" .
+   [0 0 0 0 0 1 0 1 0 0 0 0 0])
+  ("repaid_loan_status" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("STATUSES_DATES" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("effective_on" .
+   [4 0 0 0 2 1 0 1 0 1 0 0])
+  ("total_loan_allocation_receipts_at_locations_for_date_range" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("branch_data_map" .
+   [1 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("date" .
+   [10 0 0 0])
+  ("reporting_facade" .
+   [0 0 0 0 0 2 1 0 0 1 0 0 0 0 0 0])
+  ("loan_receipts" .
+   [1 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("New" .
+   [1 0 0])
+  ("supervisor" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("administrator" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ACCESS" .
+   [1 0 0 0 0 0])
+  ("executive" .
+   [1 0 0 0 0 0 0 0 0])
+  ("true" .
+   [9 0 0 0])
+  ("user_role" .
+   [2 0 0 0 0 0 0 0 0])
+  ("EXECUTIVE_CAN_VIEW" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("occupations" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("EXECUTIVE_CAN_MODIFY" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("EXECUTIVE" .
+   [0 0 1 1 1 0 0 0 0])
+  ("Money" .
+   [9 0 0 0 0])
+  ("loan" .
+   [118 0 0 0])
+  ("User" .
+   [5 0 0 0])
+  ("Constants" .
+   [2 0 0 0 0 0 0 0 0])
+  ("include" .
+   [1 0 0 0 0 0 0])
+  ("roles" .
+   [3 0 0 0 0])
+  ("ROLES" .
+   [0 0 0 0 2])
+  ("set_effective_date" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("25px" .
+   [1 0 0 0])
+  ("height" .
+   [1 0 0 0 0 0])
+  ("home" .
+   [1 0 0 0])
+  ("default" .
+   [2 0 0 1 0 0 0])
+  ("class" .
+   [4 0 0 0 0])
+  ("Report" .
+   [1 0 0 0 0 0])
+  ("attr_accessor" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("from_date" .
+   [12 0 0 0 4 2 1 0 0])
+  ("to_date" .
+   [26 0 5 0 0 0 0])
+  ("branch" .
+   [25 0 2 0 0 0])
+  ("branch_id" .
+   [24 0 0 0 0 0 4 0 1])
+  ("def" .
+   [24 0 0])
+  ("initialize" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("params" .
+   [32 0 1 0 0 0])
+  ("dates" .
+   [1 0 4 2 0])
+  ("user" .
+   [3 0 1 0])
+  ("and" .
+   [74 0 0])
+  ("from" .
+   [3 0 1 0])
+  ("Date" .
+   [17 0 2 0])
+  ("min_date" .
+   [0 0 1 0 0 0 0 0])
+  ("today" .
+   [8 0 0 0 0])
+  ("name" .
+   [67 0 2 0])
+  ("get_parameters" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("to" .
+   [10 0])
+  ("self" .
+   [17 0 0 0])
+  ("generate" .
+   [3 0 0 0 0 0 0 0])
+  ("data" .
+   [5 0 0 0])
+  ("right" .
+   [2 0 0 0 0])
+  ("auto" .
+   [2 1 0 0])
+  ("2" .
+   [1])
+  ("collection" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("action" .
+   [2 0 0 0 0 0])
+  ("effective_date" .
+   [1 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("get" .
+   [26 0 0])
+  ("return" .
+   [17 0 0 0 0 0])
+  ("debugger" .
+   [48 0 0 0 0 0 0 0])
+  ("if" .
+   [50 0])
+  ("branches" .
+   [2 0 0 0 0 0 0 0])
+  ("else" .
+   [39 0 0 0])
+  ("biz_location_branch" .
+   [1 0 0 2 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("loan_ids" .
+   [22 0 0 0 0 0 0 0])
+  ("loans" .
+   [7 0 0 0 0])
+  ("map" .
+   [2 0 0])
+  ("id" .
+   [61 0])
+  ("not" .
+   [21 0 0])
+  ("loan_facade" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("each" .
+   [16 0 0 0])
+  ("do" .
+   [22 0])
+  ("biz_location" .
+   [11 0 0 1 0 0 0 0 1 0 0 0])
+  ("loan_collections" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("empty?" .
+   [3 0 0 0 0 2])
+  ("loan_applied_amount" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("approved_amount" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("loan_approved_amount" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("loan_disbursed_amount" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Lending" .
+   [1 0 1 0 4 0 0])
+  ("FeeInstance" .
+   [1 0 0 0 0 1 0 0 0 0 0])
+  ("fee_dues" .
+   [0 0 0 2 0 0 0 0])
+  ("applied" .
+   [3 0 0 0 0 0 0])
+  ("on_date" .
+   [10 0 1 0 0 0 0])
+  ("query_results" .
+   [1 0 0 0 0 1 1 0 0 0 0 0 0])
+  ("query" .
+   [6 0 0 0 0])
+  ("effective_total_amount" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("sum_amount" .
+   [1 0 0 0 1 0 0 0 0 0])
+  ("new" .
+   [19 0 0])
+  ("default_zero_money" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("till_date" .
+   [27 0 0 0 0 0 0 0 0])
+  ("gte" .
+   [10 0 0])
+  ("applied_on" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("lte" .
+   [6 0 0])
+  ("for_status" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("applied_on_date" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("approved" .
+   [1 0 0 0 0 0 0 0])
+  ("aggregate_loans_by_branches_for_status_during_a_date_range" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("all_outstanding_loans_balances_accounted_at_locations_for_date_range" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("all_outstanding_loans_balances_at_locations_for_date_range" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("all_outstanding_loan_ids_at_locations_for_date_range" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("all_payments_on_loans_accounted_at_locations_for_date_range" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("all_receipts_on_loans_accounted_at_locations_for_date_range" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("next" .
+   [2 0 0 0])
+  ("uniq" .
+   [1 0 0 0])
+  ("desc" .
+   [8 0 0 0])
+  ("task" .
+   [9 0 0 0])
+  ("Loan" .
+   [11 0 0 0])
+  ("all" .
+   [23 0 0])
+  ("disbursal_date" .
+   [4 0 0 3 0 0 1 2 0 0 0 0 0 3])
+  ("2012" .
+   [7 0 0 0])
+  ("sl_no" .
+   [13 0 0 0 0])
+  ("File" .
+   [3 0 0 0])
+  ("open" .
+   [1 0 0 0])
+  ("DateTime" .
+   [1 0 0 0 0 0 0 0])
+  ("now" .
+   [1 0 0])
+  ("to_s" .
+   [6 0 0 0])
+  ("puts" .
+   [10 0 0 0])
+  ("Guarantor" .
+   [0 0 0 2 1 0 1 0 0])
+  ("loan_id" .
+   [9 0 0 0 0 0 0])
+  ("loan_amount" .
+   [8 0 0 0 0 0 0 0 0 0 0])
+  ("Amount" .
+   [0 0 0 0 0 7])
+  ("amount" .
+   [11 0 0 0 0 0])
+  ("loan_disbursal_date" .
+   [2 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 1])
+  ("loan_status" .
+   [4 0 0 0 2 0 0 0 0 0 2])
+  ("Status" .
+   [0 0 0 0 0 2])
+  ("status" .
+   [3 0 0 0 0 0])
+  ("client" .
+   [51 0 0 0 0 0])
+  ("Client" .
+   [4 0 0 0 0 0])
+  ("client_id" .
+   [10 0 0 0 0 0 0 0 0])
+  ("client_name" .
+   [8 0 0 0 0 0 0 0 0 0 0])
+  ("guarantor" .
+   [5 0 0 5 0 0 1 0 5])
+  ("guarantors" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("center_id" .
+   [10 0 0 0 0 0 0 0 0])
+  ("center" .
+   [21 0 0 0 0 0])
+  ("center_name" .
+   [6 0 0 0 0 0 0 0 0 0 0])
+  ("branch_name" .
+   [8 0 0 0 0 0 0 0 0 0 0])
+  ("guarantor_id" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("guarantor_name" .
+   [1 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("guarantor_date_of_birth" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("guarantor_relation_to_client" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("close" .
+   [6 0 0 0 0])
+  ("loan_installments" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0])
+  ("loan_ids_array" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("is_a?" .
+   [1 0 0 0 0])
+  ("for_loan_id" .
+   [1 0 0 1 0 0 0 0 0 0 0])
+  ("LoanReceipt" .
+   [0 0 0 0 0 0 3 0 0 1 0])
+  ("principal_received" .
+   [1 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0])
+  ("interest_received" .
+   [2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("loan_recovery" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("validates_is_unique" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("0" .
+   [6])
+  ("10" .
+   [3 0])
+  ("2px" .
+   [1 0 0])
+  ("STATISTICS" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("EXCEPTIONS" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("ACCOUNTING" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("Mfi" .
+   [2 0 0])
+  ("first" .
+   [18 0 0 0 0])
+  ("31" .
+   [1 0])
+  ("property" .
+   [4 0 0 0 1 0 0 2])
+  ("String" .
+   [1 0 0 0 0 0])
+  ("nullable" .
+   [6 0 0 0 0 2 0 0])
+  ("member" .
+   [5 0 0 0 0 0])
+  ("client_group" .
+   [13 0 0 2 0 1 3 0 0 0 0 1])
+  ("employee_id" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("blank?" .
+   [20 0 0 0 0 0])
+  ("client_groups" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("biz_location_id" .
+   [8 0 0 1 0 0 0 0 0 0 0 0 1 0 0])
+  ("raise" .
+   [5 0 0 1 0])
+  ("error" .
+   [6 0 1 4 2])
+  ("message" .
+   [16 0 0 0 4 1 0])
+  ("notice" .
+   [4 0 0 0 0 0])
+  ("url" .
+   [7 0 0])
+  ("save" .
+   [3 0 0 0])
+  ("cheque_leaf" .
+   [1 0 0 0 1 0 3 0 1 0 0])
+  ("ChequeLeaf" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("bank_account_id" .
+   [2 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("request" .
+   [4 0 0 0 1 0 0])
+  ("method" .
+   [2 0 0 0 0 0])
+  ("create" .
+   [1 0 0 0 0 0])
+  ("bank_account" .
+   [0 0 0 0 2 0 0 0 0 0 0 0])
+  ("lending_product" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bank" .
+   [2 0 0 0])
+  ("get_reporting_facade" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nil?" .
+   [26 0 0 0])
+  ("get_loans_administered" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ro_name" .
+   [2 0 0 0 0 0 0])
+  ("ro_code" .
+   [1 0 0 0 0 0 0])
+  ("client_facade" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("nil" .
+   [13 0 0])
+  ("count" .
+   [3 0 0 0 0])
+  ("loan_balances" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Enum" .
+   [1 0 0 0])
+  ("send" .
+   [1 0 0 0])
+  ("validates_with_method" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("cheque_number" .
+   [2 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("Cheque" .
+   [0 0 1 0 0 0])
+  ("disbursement_mode" .
+   [1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("errors" .
+   [1 0 0 0 0 0])
+  ("join" .
+   [1 0 0 0])
+  ("redirect" .
+   [7 0 0 0 0 0 0 0])
+  ("referer" .
+   [1 0 0 0 0 0 1])
+  ("cheque_issue_date" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("cheque_books" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  ("ChequeBook" .
+   [0 0 0 1 1 0 0 0 0 0])
+  ("serial_number" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("funding_line_id" .
+   [2 0 0 0 1 2 0 4 0 0 0 0 0 0 1])
+  ("FundingLineAddition" .
+   [0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("funding_line" .
+   [2 0 0 0 1 0 0 2 0 0 0 1])
+  ("FundingLine" .
+   [0 0 0 2 0 0 0 1 0 0 0])
+  ("biz_location_branch_id" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tenure" .
+   [1 0 0 0 0 0])
+  ("333" .
+   [1 0 0])
+  ("100px" .
+   [1 0 0 0 0])
+  ("black" .
+   [1 0 0 0 0])
+  ("don" .
+   [0 0 3])
+  ("old_acc_gl_code" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("include?" .
+   [4 0 0 0 0 0 0 0])
+  ("new_acc_name" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("new_acc_gl_code" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("sof" .
+   [10 0 0])
+  ("sof_id" .
+   [1 0 0 0 0 0])
+  ("insur_policy" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("model" .
+   [1 0 0 0 0])
+  ("obj" .
+   [2 0 0])
+  ("Tranch" .
+   [1 0 0 0 0 1])
+  ("asset_category" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("asset_type" .
+   [5 0 0 0 0 0 0 0 0 0])
+  ("asset_sub_category" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0])
+  ("AssetSubCategory" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("AssetType" .
+   [0 0 0 0 1 0 0 0 0])
+  ("scheduled" .
+   [1 0 0 0 0 0 0 0 0])
+  ("asset_register" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("asset_registers" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("new_client_wise_outstanding_report_using_loan_history" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("all_loan_ids" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("all_nominal_branches" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("all_branches" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("branch_loans" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("location" .
+   [1 0 0 0 0 0 0 0])
+  ("all_centers_created_in_range" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("written_off_on" .
+   [1 0 0 0 0 0 0 1 0 0 0 1 0 0])
+  ("written_off_by" .
+   [1 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("scheduled_principal_outstanding" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("actual_principal_outstanding" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("creation_date" .
+   [1 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("religion" .
+   [10 0 0 0 0 0 0 0])
+  ("_user" .
+   [3 0 0 0 0])
+  ("file" .
+   [2 0 0 0])
+  ("elsif" .
+   [4 0 0 1 0])
+  ("tranch" .
+   [3 0 0 0 0 0])
+  ("NewTranch" .
+   [1 0 0 0 0 0 0 0 0])
+  ("NotFound" .
+   [0 0 0 1 0 0 0 0])
+  ("display" .
+   [1 0 0 0 0 0 0])
+  ("location_ids" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("StaffMember" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("loan_purpose" .
+   [0 0 0 0 0 0 0 0 2 0 0 0])
+  ("disbursed_amount" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("tranch_id" .
+   [0 0 2 0 0 0 0 0 0])
+  ("upload_id" .
+   [1 0 0 0 0 0 0 0 0])
+  ("lan" .
+   [12 0 0])
+  ("product_type" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("performed_by" .
+   [0 0 0 0 0 1 2 0 0 0 0 0])
+  ("to_sym" .
+   [1 0 0 0 0 0])
+  ("lending" .
+   [1 0 0 0 0 0 0])
+  ("payment" .
+   [2 0 0 0 0 0 0])
+  ("Payment" .
+   [0 0 0 0 1 0 0])
+  ("PAYMENT" .
+   [1 0 0 0 0 0 0])
+  ("pos" .
+   [2 0 0])
+  ("int_os" .
+   [1 0 0 0 0 0])
+  ("default_currency" .
+   [0 0 2 1 2 1 0 0 0 0 0 0 0 0 0 0])
+  ("payment_facade" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("money_amount_to_be_paid" .
+   [0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("receipt_type" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("payment_towards" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("receipt_no" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("on_product_type" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("on_product_id" .
+   [0 0 0 1 0 0 1 0 0 0 0 0 0])
+  ("by_counterparty_type" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("by_counterparty_id" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("performed_at" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("accounted_at" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("product_action" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("recorded_by" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("valid" .
+   [2 0 0 0 0])
+  ("RECEIPT" .
+   [1 0 0 0 0 0 0])
+  ("blank" .
+   [2 0 0 0 0])
+  ("keys" .
+   [6 0 0 0])
+  ("level" .
+   [1 0 0 0 0])
+  ("missing_keys" .
+   [0 0 0 0 1 0 0 1 0 0 0 1])
+  ("ArgumentError" .
+   [0 0 2 0 1 0 0 0 0 1 0 0 0])
+  ("or" .
+   [7 0])
+  ("role" .
+   [1 0 0 0])
+  ("biz_location_name" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("relationship_to_client" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("year" .
+   [5 0 0 0])
+  ("Spouse" .
+   [0 0 0 0 1 0])
+  ("client_age" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("spouse_date_of_birth" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("spouse_age" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("guarantor_age" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("insurance_products" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("SimpleInsuranceProduct" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("insurance" .
+   [0 0 0 0 0 1 0 0 0])
+  ("upload_reference" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0])
+  ("downcase" .
+   [2 0 0 0 0 0 0 0])
+  ("add-to-list" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("given" .
+   [3 0 0 0 0])
+  ("given_numbers" .
+   [3 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("output_numbers" .
+   [1 0 0 3 0 1 2 0 0 0 0 0 0 2])
+  ("prime" .
+   [8 0 0 0 0])
+  ("is_prime?" .
+   [5 0 0 0 0 0 0 0 0])
+  ("numbers" .
+   [12 0 0 0 0 0 1])
+  ("number_ary" .
+   [4 0 0 1 0 0 1 0 0 0])
+  ("private" .
+   [1 0 0 0 0 0 0])
+  ("output" .
+   [0 0 0 1 0 0])
+  ("prime_number" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Numbers" .
+   [9 0 0 0 0 0 0])
+  ("describe" .
+   [2 0 0 0 0 0 0 0])
+  ("NumbersBetweenRanges" .
+   [0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("done" .
+   [0 0 1 0])
+  ("first_number" .
+   [5 0 0 0 0 0 0 0 0 0 0 0])
+  ("second_number" .
+   [5 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("test" .
+   [1 0 0 0])
+  ("ends" .
+   [2 0 0 0])
+  ("num" .
+   [7 0 0])
+  ("list" .
+   [1 0 0 0])
+  ("range" .
+   [1 0 0 0 0])
+  ("of" .
+   [1 0])
+  ("expected_ouput" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("odd" .
+   [1 0 0])
+  ("OddPrimeNumbersBetweenRange" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("odd_number_ary" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("break" .
+   [1 0 0 0 0])
+  ("odd_number_array" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])))
